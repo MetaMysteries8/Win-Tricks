@@ -1,0 +1,3 @@
+# Win-Tricks
+Read the .txt version for more info on Win-Tricks once you download...
+This is a zip file full of tricks you can use on windows!
